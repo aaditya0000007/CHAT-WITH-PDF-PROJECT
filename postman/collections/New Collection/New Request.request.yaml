@@ -1,0 +1,5 @@
+$kind: http-request
+name: New Request
+url: http://localhost:3000/create-collection
+method: GET
+order: 2550420389770211
